@@ -8,6 +8,6 @@ class Formatter {
     
   }
   static titleize(string){
-    return string.replace(/[^A-Za-z0-9-']+/g, '');
+    return string.capitalize(/[^A-Za-z0-9-']+/g, '');
   }
 }
