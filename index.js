@@ -1,7 +1,7 @@
 class Formatter {
   //add static methods here
   
-  static capitalize (){
+  static capitalize (string){
     
   }
   static sanitize(string){
