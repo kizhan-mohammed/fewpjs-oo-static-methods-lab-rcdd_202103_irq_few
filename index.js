@@ -4,10 +4,10 @@ class Formatter {
   static capitalize (){
     
   }
-  static sanitize(){
+  static sanitize(string){
     
   }
-  static titleize(){
+  static titleize(string){
     
   }
 }
